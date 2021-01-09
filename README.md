@@ -2,7 +2,7 @@
 
 I'm Rithvik, a college student studying computer science and business. Feel free to check out my [LinkedIn](https://www.linkedin.com/in/rithvik-p/) for detail about my past experiences or reach out to me via email at `rtpanch@gmail.com`.
 
-Unfortunately, a significant portion of my current work is closed-source (at least for the time-being), so there's not too much too see here. However, if you are interested, check out my [dotfiles](https://github.com/rithvikp/dotfiles) for my current Vim configuration or [pathfinder](https://github.com/metrobot-research/pathfinder) for an (in progress) custom implementation of Pure Pursuit.
+Unfortunately, a significant portion of my current work is closed-source (at least for the time-being), so there's not too much too see here. However, if you are interested, check out [dotfiles](https://github.com/rithvikp/dotfiles) for my current Vim configuration or [pathfinder](https://github.com/metrobot-research/pathfinder) for an (in progress) custom implementation of Pure Pursuit.
 
 <!--
 **rithvikp/rithvikp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
